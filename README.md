@@ -1,2 +1,2 @@
 # vcode
-Every thing start from begine
+Everything start from beginning
