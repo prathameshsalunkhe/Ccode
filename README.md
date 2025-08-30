@@ -12,7 +12,7 @@ A comprehensive collection of **C programming examples**, ranging from language 
 | Structures & Unions       | Custom data types and organization               |
 | File I/O                  | Reading/writing files with `fopen`, `fread`, `fwrite`, `fclose` |
 | Bitwise Operations        | Masking, shifting, setting/clearing bits         |
-| Data Structures           | Linked lists, stacks, queues (if implemented)    |
+| Data Structures           | Linked lists, stacks, queues     |
 | Embedded C Concepts       | Direct register access, hardware interfacing, low-level programming |
 
 ---
@@ -20,7 +20,7 @@ A comprehensive collection of **C programming examples**, ranging from language 
 ##  Tools & Environment
 - **Compiler:** `gcc`
 - **Debugger:** `gdb`
-- **Editor:** `vi` (or your preferred Linux editor)
+- **Editor:** `vi` 
 - **Platform:** Linux (Ubuntu or similar)
 
 ---
